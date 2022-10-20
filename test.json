@@ -1,23 +1,25 @@
-[
-    {
-      "name":"khairul",
-      "comment":"Wow nice app"
-    },
-    {
-      "name":"azhar",
-      "comment":"mantap lah pak abu"
-    },
-    {
-      "name":"kinah",
-      "comment":"mantap lah pak abu"
-    },
-    {
-      "name":"amy",
-      "comment":"mantap lah pak abu"
-    },
-    {
-      "name":"adam",
-      "comment":"mantap lah pak abu"
-    },
-]
+{    
+    [
+        {
+          "name":"khairul",
+          "comment":"Wow nice app"
+        },
+        {
+          "name":"azhar",
+          "comment":"mantap lah pak abu"
+        },
+        {
+          "name":"kinah",
+          "comment":"mantap lah pak abu"
+        },
+        {
+          "name":"amy",
+          "comment":"mantap lah pak abu"
+        },
+        {
+          "name":"adam",
+          "comment":"mantap lah pak abu"
+        },          
+    ]
+}
 
